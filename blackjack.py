@@ -303,7 +303,7 @@ def hit_stand_or_double_down_(player):
         if choice=='H' or choice=='h':
             hit(player)
             show_some()
-            if player.hand.value>=21:
+            if player.hand.value > 21:
                 player_busts(player)
                 show_some()
                 break
