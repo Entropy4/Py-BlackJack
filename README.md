@@ -4,9 +4,9 @@ This is an Intermediate-Level Python program for an (almost) fully-fledged Black
 # Rules of the Game
     
 1. The rules are pretty much the same as regular BlackJack except for the absence of:  
-   - **Split  
-   - **Surrender      
-   - **Insurance
+   - **Split**  
+   - **Surrender**      
+   - **Insurance**
    - other side bets
    
 2. You can play this game on your own against a computerised dealer or along with upto 3 other local friends!  
